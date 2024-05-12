@@ -49,6 +49,11 @@ MacOS13之后的Mac如果被监管会被禁止进入Recovery Mode，无法和Mac
 
 ![Reco](Recovery.webp)
 这种情况需要完全关机后重新尝试
+---
+---
+---
+---
+
 
 
 
