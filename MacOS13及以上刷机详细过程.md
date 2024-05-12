@@ -6,5 +6,5 @@ MacOS13之后的Mac如果被监管会被禁止进入Recovery Mode，无法和Mac
 1. 一台可以正常使用的Mac电脑
 2. USB-C 数据线
 ![图片](MU2G3.jpeg)
-![tupian] (/Users/nofear/Desktop/Github Mac Flash/MacOS--1/Screenshot 2024-05-12 at 9.05.28 AM.png)
+![tupian] (333)
 
