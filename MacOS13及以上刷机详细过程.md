@@ -33,13 +33,16 @@ MacOS13之后的Mac如果被监管会被禁止进入Recovery Mode，无法和Mac
 1. 右 Shift 键
 2. 左 Option 键
 3. 左 Control 键
+
 10 秒钟后，立即松开这三个按键但继续按住电源按钮，直至设备出现在 Apple Configurator 2 中。
 当DFU模式启动成功，在电脑B上会出现DFU的大图标，如下图：
 
 ![DFU-success](DFU.webp)
 ---
 第一次进入DFU模式很有可能失败，所以需要多尝试几次
----
+
+如果 Mac A尚未启动到 DFU 模式，显示如下：
+ ![Normal](Normal.webp)
 
 
 
