@@ -15,6 +15,8 @@ MacOS13之后的Mac如果被监管会被禁止进入Recovery Mode，无法和Mac
 
 然后用数据线连接两台电脑，需要注意的是，数据线连接的C口有着严格的要求
 在这里会对Macbook Air，Macbook Pro的连接方式详细介绍，其他机型可以自己上网查询
->>>搭载 Apple 芯片的 14 英寸或 16 英寸 MacBook Pro 的左侧，显示靠后的两个雷雳 4 (USB-C) 端口，其中高亮标记了最左侧的端口
+>搭载 Apple 芯片的 14 英寸或 16 英寸 MacBook Pro 的左侧，显示靠后的两个雷雳 4 (USB-C) 端口，其中高亮标记了最左侧的端口
+
+![Macbook Pro](macbookPro.webp)
 
 
