@@ -30,9 +30,9 @@ MacOS13之后的Mac如果被监管会被禁止进入Recovery Mode，无法和Mac
 
 按下电源按钮。
 按住电源按钮的同时，按下以下所有三个按键大约 10 秒钟：
-右 Shift 键
-左 Option 键
-左 Control 键
+1. 右 Shift 键
+2. 左 Option 键
+3. 左 Control 键
 10 秒钟后，立即松开这三个按键但继续按住电源按钮，直至设备出现在 Apple Configurator 2 中。
 当DFU模式启动成功，在电脑B上会出现DFU的大图标，如下图：
 
