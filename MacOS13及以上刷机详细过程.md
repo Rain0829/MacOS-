@@ -5,8 +5,8 @@ MacOS13之后的Mac如果被监管会被禁止进入Recovery Mode，无法和Mac
 ## 刷机前的准备
 1. 一台可以正常使用的Mac电脑
 2. USB-C 数据线
-
 如果需要，建议使用时间机器备份
+
 ---
 ## 开始刷机
 为了易于理解，可以把被刷机的电脑称为电脑A，正常使用的电脑称为电脑B
@@ -18,5 +18,31 @@ MacOS13之后的Mac如果被监管会被禁止进入Recovery Mode，无法和Mac
 >搭载 Apple 芯片的 14 英寸或 16 英寸 MacBook Pro 的左侧，显示靠后的两个雷雳 4 (USB-C) 端口，其中高亮标记了最左侧的端口
 
 ![Macbook Pro](macbookPro.webp)
+---
+>MacBook Air的左侧，显示靠后的两个雷雳 3 (USB-C) 端口，其中标出了最左侧的端口。
+![Macbook Air](macbookAir.webp)
+---
+
+简单的来说，对于搭载Apple Silicon的Macbook机型，数据线需要连接上面的C口
+
+### 进入DFU模式
+在连接数据线之后，把电脑A完全关机，建议在关机后至少等待10秒。
+
+按下电源按钮。
+按住电源按钮的同时，按下以下所有三个按键大约 10 秒钟：
+-右 Shift 键
+-左 Option 键
+-左 Control 键
+10 秒钟后，立即松开这三个按键但继续按住电源按钮，直至设备出现在 Apple Configurator 2 中。
+当DFU模式启动成功，在电脑B上会出现DFU的大图标，如下图：
+![DFU-success](DFU.webp)
+---
+第一次进入DFU模式很有可能失败，所以需要多尝试几次
+---
+
+
+
+
+
 
 
