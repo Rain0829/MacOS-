@@ -42,10 +42,10 @@ MacOS13之后的Mac如果被监管会被禁止进入Recovery Mode，无法和Mac
 第一次进入DFU模式很有可能失败，所以需要多尝试几次
 
 如果 Mac A尚未启动到 DFU 模式，Mac B显示如下：
- ![Normal](Normal.webp)
+![Normal](Normal.webp)
 ---
 如果 Mac A启动到了恢复模式选择窗口, Mac B显示如下：
-！[Rocovery](Recovery.webp)
+![Rocovery](Recovery.webp)
 这种情况需要完全关机后重新尝试
 
 
